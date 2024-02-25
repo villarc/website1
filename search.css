@@ -17,9 +17,10 @@ body {
 .search .btn{
     position: absolute;
     top: 0;
-    left: 0;
+    left: 100;
     font-size: 24px;
     background-color: white;
     border: 0;
     height: 50px;
+    width: 50px;
 }
