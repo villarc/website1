@@ -8,3 +8,9 @@ body {
     justify-content: center;
     margain: 0;
 }
+
+.search {
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+}
