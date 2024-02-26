@@ -19,5 +19,10 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height:
+    height: 80vh;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    flex: 0.5;
+    margain: 10px;
 }
