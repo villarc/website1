@@ -25,4 +25,5 @@ body{
     cursor: pointer;
     flex: 0.5;
     margain: 10px;
+    position: relative;
 }
