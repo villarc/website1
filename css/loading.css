@@ -13,6 +13,7 @@ body {
 .loading-text {
     font-size: 50;
     color:white;
+    opacity: 1;
 }
 
 
