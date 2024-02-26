@@ -22,4 +22,9 @@ bg {
     position: absolute;
     z-index: -1;
     background-image: url("images/nature.jpg");
+    background-position:center;
+    background-size: center;
+    background-repeat: no-repeat;
+
+
 }
