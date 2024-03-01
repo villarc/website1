@@ -1,10 +1,9 @@
 panels = document.querySelectorAll('.panel')
 
-console.log("HELLO")
 panels.forEach(panel => {
     panel.addEventListener('click', () => {
         removeActiveClasses()
-        panel.ClassList.add('active')
+        panel.classList.add('active')
     })
 })
 
