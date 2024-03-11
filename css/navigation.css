@@ -67,5 +67,10 @@ body {
 
 
 .nav {
-    position
+    position: fixed;
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
 }
