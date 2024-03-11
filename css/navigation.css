@@ -93,5 +93,14 @@ body {
 .nav a {
     color: white;
     text-decoration: none;
-    
+    padding: 7px 15px;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav.active {
+    background-color: white;
+}
+
+.nav.active a {
+    color: black;
 }
